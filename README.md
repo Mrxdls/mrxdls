@@ -15,9 +15,9 @@ Backend Developer | AI Engineer
 
 ## 🌐 Connect
 
-[LinkedIn](YOUR_LINKEDIN)
+[LinkedIn](https://linkedin.com/in/mridulsoni)
 
-[Portfolio](YOUR_PORTFOLIO)
+[Website](https://finbox.mridulsoni.in)
 
 Email
 
