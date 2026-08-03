@@ -45,38 +45,8 @@ mridulsoni.dev@gmail.com
 
 ---
 
-## 📊 Top Languages
+## 🛠 Building With
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrxdls&layout=compact&theme=tokyonight)
-
----
-
-## 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=mrxdls&theme=tokyo-night)
-
----
-
-## 🐍 Snake
-
-![](https://raw.githubusercontent.com/mrxdls/mrxdls/output/github-contribution-grid-snake.svg)
-
----
-
-## ⭐ Featured Projects
-
-### InfoSeek
-
-RAG System using FastAPI + PostgreSQL + Qdrant
-
-### Billing Intelligence Platform
-
-AWS + Airflow + Redshift
-
-### Cortex
-
-Internal Task Automation Platform
-
----
+Backend APIs • Microservices • Event-Driven Systems • AI Applications • Cloud Platforms • Automation • Data Pipelines
 
 ![](https://komarev.com/ghpvc/?username=mrxdls)
