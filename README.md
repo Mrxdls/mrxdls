@@ -27,7 +27,9 @@ mridulsoni.dev@gmail.com
 
 ## 💻 Tech Stack
 
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,mysql,redis,docker,aws,git,github,linux,vscode"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,django,fastapi,nodejs,express,dotnet,postgres,mysql,mongodb,redis,docker,nginx,aws,gcp,azure,git,github,linux,bash,vscode,pycharm,postman,html,css" />
+</p>
 
 ---
 
@@ -39,7 +41,7 @@ mridulsoni.dev@gmail.com
 
 ## 🔥 GitHub Streak
 
-![](https://streak-stats.demolab.com?user=mrxdls&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mrxdls&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
